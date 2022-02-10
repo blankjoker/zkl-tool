@@ -1,6 +1,4 @@
-# zkl-tool
-# dotfiles.tar.gz
-# 使用tmux监控的使用文档
+# 使用dotfiles.tar.gz监控的使用文档
 
 - 第一步安装tmux
 
@@ -22,5 +20,7 @@
   source .bashrc
   ```
 
-  
+# 使用zkl_myzsh.tar.gz监控的使用文档
 
+- 下载文件到用户目录，如：~/
+- 解压文件到用户目录,tar -zxvf  zkl_myzsh.tar.gz ~/
